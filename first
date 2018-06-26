@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html> 
   <head>  
     <title>Lily's Page</title>
@@ -9,7 +9,11 @@
   <body> 
     <h1>All about Lily</h1>
     <a href="https://www.youtube.com/channel/UCBDwO0hIB_l7I_5UJjHx3yg"> Check Lily's Youtube!</a>
+      <img 
+      scr="https://media.giphy.com/media/13Nc3xlO1kGg3S/source.gif">
+      <!--when you click on the image on the website it takes you to google!-->
     
+    </a>
     <div id="Facts"> 
       <!--list of facts, how to make an ordered list or a bulleted list-->
       <h3>Facts</h3>
@@ -21,9 +25,7 @@
     
     <div id="Favorites">
       <p>Lily likes running and yoga.</p>
-      <img 
-      scr="https://images.pexels.com/photos/588561/pexels-photo-588561.jpeg?auto=compress&cs=tinysrgb&h=350"> 
-      <h6>This is a fun pose! </h6>
+      <img scr="https://cdn1.medicalnewstoday.com/content/images/articles/318/318774/a-woman-practicing-yoga-on-the-beach.jpg">
     </div>
   </body>
 </html>
